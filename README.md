@@ -26,12 +26,6 @@
 
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")](https://github.com/furqan-abid)
 
-## 🍧 DESIGN TOOLS
-
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white "Figma")](https://github.com/furqan-abid)
-[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6 "XD")](https://github.com/furqan-abid)
-[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://github.com/furqan-abid)
-
 ## ⚙️ BACKEND DEV TOOLS
 
 [![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")](https://github.com/furqan-abid)
@@ -41,12 +35,19 @@
 ## 📅 DATABASES
 
 [![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")][repo]
+[![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black "Firestore")](https://firebase.google.com/docs/firestore)
+[![Realtime Firebase Database](https://img.shields.io/badge/Realtime%20Firebase%20Database-FF6F00?style=for-the-badge&logo=firebase&logoColor=black "Realtime Firebase Database")](https://firebase.google.com/docs/database)
+
+## 🍧 DESIGN TOOLS
+
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white "Figma")](https://github.com/furqan-abid)
+[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6 "XD")](https://github.com/furqan-abid)
+[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://github.com/furqan-abid)
 
 ## 🎯 PROGRAMMING LANGUAGES
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")][repo]
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white "TypeScript")][repo]
-[![C](https://img.shields.io/badge/C-CC6699?style=for-the-badge&logo=C&logoColor=white "C")][repo]
 [![Cpp](https://img.shields.io/badge/CPP-007ACC?style=for-the-badge&logo=Cpp&logoColor=white "Cpp")][repo]
 
 ## 🛠️ DEVOPS TOOLS
