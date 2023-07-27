@@ -70,7 +70,7 @@
 
 [repo]: https://github.com/furqan-abid
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
