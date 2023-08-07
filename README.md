@@ -9,7 +9,7 @@
 
 ## My Consistency Graph:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furqan-abid&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furqan-abid&exclude_days=Sun&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
 
 ## 🕸️ WEB DEV TOOLS
 
