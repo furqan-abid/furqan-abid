@@ -10,7 +10,6 @@
 ## My Consistency Graph:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furqan-abid&exclude_days=Sun&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
-[![](https://visitcount.itsvg.in/api?id=mubeenyasin72&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🕸️ WEB DEV TOOLS
 
@@ -74,4 +73,5 @@
 ## ✍️ Random Dev Quote
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<br/>
+[![](https://visitcount.itsvg.in/api?id=mubeenyasin72&icon=0&color=0)](https://visitcount.itsvg.in)
