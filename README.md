@@ -76,4 +76,3 @@
 <br/>
 [![](https://visitcount.itsvg.in/api?id=furqan-abid&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/furqan-abid)
