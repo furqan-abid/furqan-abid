@@ -9,11 +9,6 @@
 
 ---
 
-
-## My Consistency Graph:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furqan-abid&exclude_days=Sun,Sat&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
-
 I build production-ready AI features for SaaS companies. LLM agents, RAG systems, and full-stack products on Next.js and Supabase. Whether you are starting fresh or handing over a fragile codebase, I ship fast and I don't break what's live.
 
 I work AI-native with Claude Code and Cursor every day, so I move faster and clean up messy code faster than teams doing it by hand.
@@ -67,3 +62,8 @@ I work AI-native with Claude Code and Cursor every day, so I move faster and cle
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+
+## My Consistency Graph:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furqan-abid&exclude_days=Sun,Sat&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
