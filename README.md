@@ -1,78 +1,69 @@
-# Hi all, I'm M.Furqan Abid! 👋
-### A MERN Stack Developer
+<h1 align="center">Hi, I'm Furqan 👋</h1>
+<h3 align="center">Full-Stack Developer | AI SaaS, Next.js + Supabase, LLM Agents</h3>
 
-- MERN Stack Developer with expertise in JavaScript, Node.js, React, Express, and MongoDB.
-- Proficient in TypeScript, Next.js, and Firebase.
-- Skilled in using Material-UI, Styled Components, and Tailwind CSS for building user interfaces.
-- Experienced in state management with Redux.
-- Familiar with Agile methodologies and Software Project Management using Jira.
+<p align="center">
+  <img src="https://img.shields.io/badge/Top%20Rated%20on%20Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Top Rated" />
+  <img src="https://img.shields.io/badge/6%2B%20Years%20Full--Stack-0A0A0A?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/100%25%20Job%20Success-2E7D32?style=for-the-badge" alt="Job Success" />
+</p>
+
+---
+
 
 ## My Consistency Graph:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furqan-abid&exclude_days=Sun,Sat&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
 
-## 🕸️ WEB DEV TOOLS
+I build production-ready AI features for SaaS companies. LLM agents, RAG systems, and full-stack products on Next.js and Supabase. Whether you are starting fresh or handing over a fragile codebase, I ship fast and I don't break what's live.
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")](https://github.com/furqan-abid)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")](https://github.com/furqan-abid)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")](https://github.com/furqan-abid)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript")](https://github.com/furqan-abid)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React js")](https://github.com/furqan-abid)
-[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white "Next.js")](https://github.com/furqan-abid)
-[![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")](https://github.com/furqan-abid)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/furqan-abid)
+I work AI-native with Claude Code and Cursor every day, so I move faster and clean up messy code faster than teams doing it by hand.
 
-## 📱 MOBILE DEV TOOLS
+## What I build
 
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")](https://github.com/furqan-abid)
+- AI and LLM features with OpenAI, Claude, and Gemini, plus RAG, vector search, and agentic workflows
+- Full-stack SaaS in Next.js (App Router), React, TypeScript, and Tailwind / shadcn/ui
+- Supabase and PostgreSQL with auth, row-level security, and multi-tenant architecture
+- Stripe billing done right: subscriptions, webhooks, and metered plans
+- Taking over live codebases: audit, stabilise, then extend with AI
 
-## ⚙️ BACKEND DEV TOOLS
+## Tech stack
 
-[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")](https://github.com/furqan-abid)
-[![Express js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge "Express js")](https://github.com/furqan-abid)
-[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")](https://github.com/furqan-abid)
+**AI & LLM**
 
-## 📅 DATABASES
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20%2B%20Vector%20Search-0B7285?style=for-the-badge)
 
-[![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")][repo]
-[![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black "Firestore")](https://firebase.google.com/docs/firestore)
-[![Realtime Firebase Database](https://img.shields.io/badge/Realtime%20Firebase%20Database-FF6F00?style=for-the-badge&logo=firebase&logoColor=black "Realtime Firebase Database")](https://firebase.google.com/docs/database)
+**Frontend**
 
-## 🍧 DESIGN TOOLS
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white "Figma")](https://github.com/furqan-abid)
-[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6 "XD")](https://github.com/furqan-abid)
-[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://github.com/furqan-abid)
+**Backend & Data**
 
-## 🎯 PROGRAMMING LANGUAGES
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")][repo]
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white "TypeScript")][repo]
-[![Cpp](https://img.shields.io/badge/CPP-007ACC?style=for-the-badge&logo=Cpp&logoColor=white "Cpp")][repo]
+**Payments & Automation**
 
-## 🛠️ DEVOPS TOOLS
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")][repo]
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")][repo]
-[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white "Npm")][repo]
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")][repo]
+**Tooling & Deploy**
 
-## ☁️ CLOUDS
-
-[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white "Google Cloud")][repo]
-[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white "Heroku")][repo]
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white "Vercel")][repo]
-[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")][repo]
-
-## 📄 CODE EDITOR & IDEs
-
-[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
-
-[repo]: https://github.com/furqan-abid
-
-## ✍️ Random Dev Quote
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br/>
-[![](https://visitcount.itsvg.in/api?id=furqan-abid&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
